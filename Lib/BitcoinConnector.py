@@ -89,7 +89,7 @@ class BitcoinConnector:
         '''
         try:
             self.socket.connect((self.peerIP,self.peerPort))
-            print(f'Socket connected succfully to node {self.peerIP} on port {self.peerPort}')
+            print(f'Socket connected successfully to node {self.peerIP} on port {self.peerPort}')
         except:
             print(f'Could not connect to peer at IP {self.peerIP} on port {self.peerPort}')
 
