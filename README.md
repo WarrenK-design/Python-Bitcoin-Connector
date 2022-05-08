@@ -1,6 +1,6 @@
 # Bitcoin Connector 
 This repository holds the code for a bitcoin connector. 
-Using this reporsitory the a node in the bitcoin network can be connected to and the messages can begin to be received from the connected node and displayed in a terminal. 
+Using this reporsitory a node in the bitcoin network can be connected to and the messages can begin to be received from the connected node and displayed in a terminal. 
 
 This readme is divided into two sections:
 
