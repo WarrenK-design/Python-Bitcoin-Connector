@@ -1,7 +1,5 @@
 ### House Keeping ###
 # Name           - Warren Kavanagh 
-# Email          - C16463344@MYTuDublin.ie
-# Student Number - C16463344 
 
 ## Description ##
 #   This file holds the class BitcoinConnector
