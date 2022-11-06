@@ -1,7 +1,6 @@
 ### House Keeping ###
 # Name           - Warren Kavanagh 
-# Email          - C16463344@MYTuDublin.ie
-# Student Number - C16463344 
+# Description    - Main script which connects to another node in the bitcoin network and then listens out for inv, tx and block messages 
 
 ## Imports ##
 # BitcoinConnector - Class developed for this project which provides funtionality for conntecting to bitcoin network and parsing messages 
